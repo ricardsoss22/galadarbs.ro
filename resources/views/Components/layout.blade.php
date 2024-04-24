@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>day 2 homework</h1>
+   
+<x-navbar></x-navbar>
+
+
+   {{ $slot }}
 </body>
 </html>
